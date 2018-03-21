@@ -1,0 +1,5 @@
+{
+    "sketch": "uno_sleep_wip.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyUSB0"
+}
